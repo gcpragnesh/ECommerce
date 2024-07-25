@@ -1,0 +1,60 @@
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: white; /* Assuming the toolbar has a primary color background */
+  margin-right: 20px; /* Add some space to the right */
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.user {
+  padding-left: 450px;
+  margin-right: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.mat-toolbar-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.imglogo {
+  margin-right: 10px;
+}
+
+.mat-menu {
+  padding: 10px;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.table td {
+  vertical-align: middle;
+  padding: 5px;
+}
+
+.table img {
+  border-radius: 4px;
+}
+
+button.mat-fab {
+  background-color: red;
+  color: white;
+}
+
+h5 {
+  margin: 10px 0;
+  text-align: right;
+}
+
+button.mat-raised-button {
+  display: block;
+  margin: 0 auto;
+}

@@ -1,0 +1,53 @@
+.login-container {
+    max-width: 400px;
+    margin: 2em auto;
+    padding: 2em;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .login-container h2 {
+    text-align: center;
+    margin-bottom: 1em;
+  }
+  
+  .form-group {
+    margin-bottom: 1em;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5em;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .button-group button {
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .button-group button[disabled] {
+    background-color: #ccc;
+  }
+  

@@ -1,0 +1,29 @@
+
+
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 10%;
+
+}
+.pacifico-regular {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:  xx-large;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+footer {
+  background: #6d6f6c;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
